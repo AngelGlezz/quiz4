@@ -1,0 +1,529 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿En qué año ganó el Real Madrid su novena Copa de Europa?",
+      "respuestas": [
+        {
+          "respuesta": "1992",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2002",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "2014",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2010",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el único gol del Atlético de Madrid en la final de Champions de 2014?",
+      "respuestas": [
+        {
+          "respuesta": "Koke",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "David Villa",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Griezmann",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Diego Godín",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién era el entrenador del Bayern Múnich cuando ganó su última Champions League?",
+      "respuestas": [
+        {
+          "respuesta": "Pep Guardiola",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jürgen Klopp",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jupp Heynckes",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Louis van Gaal",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugadores del Manchester City son los máximos goleadores del equipo en esta Champions?",
+      "respuestas": [
+        {
+          "respuesta": "Sergio Agüero y Kevin De Bruyne",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "David Silva y Sergio Agüero",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "David Silva y Jesús Navas",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Kevin De Bruyne y Raheem Sterling",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué año ganó el Bayern Múnich su primera Copa de Europa?",
+      "respuestas": [
+        {
+          "respuesta": "1974",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1969",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1975",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1981",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles ha marcado Cristiano en todas las Champions League que ha jugado?",
+      "respuestas": [
+        {
+          "respuesta": "94",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "100",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "98",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "82",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el gol del triunfo para el Bayern en la final de Champions 2012-2013?",
+      "respuestas": [
+        {
+          "respuesta": "Mario Mandzukic",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Arjen Robben",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Thomas Müller",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Philipp Lahm",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el marcador del último partido entre Manchester City y Real Madrid en Champions?",
+      "respuestas": [
+        {
+          "respuesta": "1 - 1",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "0 - 0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2 - 1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2 - 2",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué año disputaron la final de la Copa de Europa el Atlético de Madrid y el Bayern Múnich?",
+      "respuestas": [
+        {
+          "respuesta": "1972",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1986",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1974",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1959",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cómo se llama el estadio en el que juega el Manchester City?",
+      "respuestas": [
+        {
+          "respuesta": "Citi Field",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Old Trafford",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "White Heart Lane",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Etihad Stadium",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas finales de Champions ha jugado el Atlético de Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "2",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "4",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién era el portero titular del Real Madrid cuando ganaron su última Champions?",
+      "respuestas": [
+        {
+          "respuesta": "Keylor Navas",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Iker Casillas",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Diego López",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "José de Jesús Corona",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿De qué nacionalidad es Manuel Pellegrini?",
+      "respuestas": [
+        {
+          "respuesta": "Uruguayo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Argentino",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chileno",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Español",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué año llegó Zinedine Zidane al Real Madrid como jugador?",
+      "respuestas": [
+        {
+          "respuesta": "2001",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1999",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2000",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1998",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es el apodo de Diego Simeone?",
+      "respuestas": [
+        {
+          "respuesta": "Pibe",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Gaucho",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Toro",
+          "tipo": "false"
+        }
+        {
+          "respuesta": "Cholo",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál ha sido hasta ahora el mayor logro del Manchester City en Champions?",
+      "respuestas": [
+        {
+          "respuesta": "Subcampeón",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Semifinales",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Campeón",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Tercer lugar",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas Copas de Europa tiene el Bayern Múnich en sus vitrinas?",
+      "respuestas": [
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "4",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "5",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "8",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cómo se llama el estadio del Bayern Múnich?",
+      "respuestas": [
+        {
+          "respuesta": "Olympiastadion München",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Allianz Arena",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Grünwalder Stadion",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bonn East Arena",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas finales de Champions disputó Simeone como jugador?",
+      "respuestas": [
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "0",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué equipo se retiró como jugador Pep Guardiola?",
+      "respuestas": [
+        {
+          "respuesta": "Barcelona",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Manchester City",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Dorados de Sinaloa",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Al-Ahli",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas Champions League ha ganado el Real Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "10",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "11",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "8",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué estadio ha ganado dos Champions el Barcelona?",
+      "respuestas": [
+        {
+          "respuesta": "Olímpico de Berlín",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Stade de France",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Allianz Arena",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Wembley",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra qué equipo ganó la Champions el Barcelona en 2006?",
+      "respuestas": [
+        {
+          "respuesta": "Juventus",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ajax",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Arsenal",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Manchester United",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es la mejor posición conseguida por el Atlético en Champions?",
+      "respuestas": [
+        {
+          "respuesta": "Campeón",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cuartos de Final",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Subcampeón",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Semifinal",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué equipos protagonizaron la única final de Champions de dos partidos?",
+      "respuestas": [
+        {
+          "respuesta": "Atlético vs Bayern",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Madrid vs Bayern",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Atlético vs Real Madrid",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bayern vs Barcelona",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
